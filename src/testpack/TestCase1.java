@@ -7,4 +7,7 @@ public class TestCase1 {
 		System.out.println("this is my testc ase1");
 	}
 
+	public void add() {
+		System.out.println("for test case 1");
+	}
 }
